@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-## required
+# required
 # pygame
 
-### pip install pygame
+## pip install pygame
