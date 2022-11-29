@@ -126,6 +126,3 @@ while True:
         draw_text(screen, "tie", 700//2, 700//2, 250, (255, 255, 0))  
     
     pygame.display.update()
-
-
-
